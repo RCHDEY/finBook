@@ -1,2 +1,1 @@
-"# finBook" 
 # finBook
