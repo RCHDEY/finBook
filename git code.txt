@@ -1,0 +1,16 @@
+
+cgst
+email_id
+hsn/sac
+invoice_date
+invoice_number
+invoice_total
+purchaser_gstin
+sgst
+vendor_gstin
+vendor_name
+['qr_cgst', 'qr_email_id', 'qr_hsn/sac', 'qr_invoice_date', 'qr_invoice_number', 'qr_invoice_total', 'qr_purchaser_gstin', 'qr_sgst', 'qr_vendor_gstin', 'qr_vendor_name']
+
+D:\Mudra Invoice 2.0\BIZAMICA_API>
+
+ssh-keygen -t ed25519 -C "dey.rajibchandra@gmail.com"
